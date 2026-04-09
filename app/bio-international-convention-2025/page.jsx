@@ -2,6 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import { FaCalendar, FaMapMarkerAlt } from "react-icons/fa";
+// help to commit
 import CommonForm from "@/components/CommonFormEvents/CommonForm";
 const events = [
   {
