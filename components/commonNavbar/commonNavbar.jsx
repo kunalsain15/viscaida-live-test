@@ -162,7 +162,8 @@ const CommonNavbar = () => {
                 <div className="flex items-center">
                   <Link href={"/"}>
                     <img
-                      src="/viscadiupdate.png"
+                    src="/viscadiupdate2.png"
+                      // src="/viscadiupdate.png"
                       className="logonavbar object-contain cursor-pointer"
                       alt="Flowbite Logo"
                     />
